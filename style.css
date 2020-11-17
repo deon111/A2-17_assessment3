@@ -75,13 +75,12 @@ ul{
   width: 40%;
 }
 
-/* Add a black background color to the top navigation */
+
 .navigationbar-horizontal {
   background-color: #224054;
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
 .navigationbar-horizontal a {
   float: left;
   color: #f2f2f2;
@@ -92,13 +91,11 @@ ul{
 }
 
 
-/* Change the color of links on hover */
 .navigationbar-horizontal a:hover {
   background-color: #ddd;
   color: black;
 }
 
-/* Add a color to the active/current link */
 .navigationbar-horizontal a.active {
   background-color: #4CAF50;
   color: white;

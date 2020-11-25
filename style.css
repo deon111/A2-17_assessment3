@@ -61,9 +61,15 @@ float:right;
 margin-right: 300px;
 }
 
+
 .portrait-align{
   float:right;
   margin-right: 600px;
+}
+
+.align-right{
+  float:right;
+  margin-right: 100px;
 }
 
 img {
